@@ -69,7 +69,7 @@ generations occasionally repeated a phrase.
 - Hobbies: gaming
 
 **Output:**
-> _[paste the generated bio text from your app here]_
+> Amer is an AI engineer who thrives on building intelligent systems and finding innovative solutions. When he's not immersed in algorithms and machine learning, he enjoys exploring the world of video games.
 
 ## 7. How to Run the Project
 
